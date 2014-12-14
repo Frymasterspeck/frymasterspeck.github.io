@@ -1,7 +1,7 @@
 # Site settings
-title: Code Island
-email: info@code-island.org
+title: John Speck Creative
+email: callme@johnspeckcreative.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://code-island.org" # the base hostname & protocol for your site
+url: "http://frymaster.github.io" # the base hostname & protocol for your site
 port: 4001
 # permalink: article/:title
